@@ -39,4 +39,5 @@
 
 [Репозиторий проекта на GitHub](https://github.com/bruffridge/nasawds)
 
-### Ссылка на GitHub Pages: https://stelsp.github.io/design-system/
+### Ссылка на GitHub Pages:
+https://stelsp.github.io/design-system/
